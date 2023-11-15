@@ -38,7 +38,7 @@
                             Pendaftaraan KI
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item fs-6 fw-normal font-family-Lucida Sans col-xxl-0 m-0 px-3 py-2" href="pengajuan.php">Hak Cipta</a></li>
+                            <li><a class="dropdown-item fs-6 fw-normal font-family-Lucida Sans col-xxl-0 m-0 px-3 py-2" href="p-paten.php">Paten</a></li>
                             <li><a class="dropdown-item fs-6 fw-normal font-family-Lucida Sans col-xxl-0 m-0 px-3 py-2" href="#">Another action</a></li>
                             <li><a class="dropdown-item fs-6 fw-normal font-family-Lucida Sans col-xxl-0 m-0 px-3 py-2" href="#">Something else here</a></li>
                         </ul>
