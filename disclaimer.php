@@ -58,7 +58,7 @@
             <li class="fs-6 fw-normal font-family-Kokoro">Semua informasi yang dimuat dalam Sistem Informasi Kekayaan Intelektual Institut Pertanian Bogor (Sistem Informasi KI IPB) sudah diusahakan seakurat mungkin. Walau demikian, tidak menutup kemungkinan adanya kesalahan yang tidak disengaja baik oleh administrator maupun karena kesalahan sistem.</li>
             <li class="fs-6 fw-normal font-family-Kokoro">Susunan (urutan) nama-nama inventor pada Sistem Informasi KI IPB kemungkinan tidak sesuai karena kendala teknis pada sistem. Susunan (urutan) nama-nama inventor yang benar terdapat pada Formulir Permohonan Pendaftaran Paten yang jika diperlukan dapat menghubungi Direktorat Inovasi dan Kekayaan Intelektual IPB.</li>
             <li class="fs-6 fw-normal font-family-Kokoro">Gunakan situs ini sebagai referensi pengetahuan, bukan sebagai rujukan absolut/mutlak.</li>
-            <li class="fs-6 fw-normal font-family-Kokoro">Dengan menggunakan situs ini, Anda mengakui dan menyetujui bahwa IPB tidak bertanggung jawab dan tidak dapat disalahkan ataupun dituntut atas hasil apapun yang terjadi sebagai akibat dari penggunaan situs ini.</li>
+            <li class="fs-6 fw-normal font-family-Kokoro">Dengan menggunakan situs ini, anda mengakui dan menyetujui bahwa IPB tidak bertanggung jawab dan tidak dapat disalahkan ataupun dituntut atas hasil apapun yang terjadi sebagai akibat dari penggunaan situs ini.</li>
         </ul>
         <br><br>
         <span class="d-flex justify-content-center">
